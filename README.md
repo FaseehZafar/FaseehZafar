@@ -44,8 +44,8 @@
 
 I'm always open to learning, collaborating, or just chatting about tech!
 
-> 💼 [LinkedIn](https://www.linkedin.com) (Add your actual link)  
-> 💌 Email: your.email@example.com  
+> 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/faseeh-zafar-418369323/))   
+> 💌 Email: faseehzafar.dev@gmail.com  
 
 ---
 
