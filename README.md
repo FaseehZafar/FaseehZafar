@@ -9,23 +9,23 @@
 ## 🔧 What I'm Working On
 
 - Building a strong foundation in **C++** and programming fundamentals  
-- Completing lab tasks and assignments as part of my degree  
+- Doing practice work as part of my degree. 
 - Exploring **GitHub** to understand version control and collaborative development  
 
 ---
 
 ## 📁 Repositories You'll Find Here
 
-- 🔹 Programming Fundamentals lab tasks in C++  
-- 🔹 Practice problems and logic-building exercises  
-- 🔹 Early-stage projects aligned with my coursework  
+-  Programming Fundamentals lab tasks in C++  
+-  Practice problems and logic-building exercises  
+-  Early-stage projects aligned with my coursework  
 
 ---
 
 ## 🧠 Skills I'm Developing
 
 - Programming with **C++**
-- Basic Linux commands and terminal usage
+- Basics of Python and Data Science
 - Version control with **Git & GitHub**
 - Problem-solving and algorithmic thinking
 
