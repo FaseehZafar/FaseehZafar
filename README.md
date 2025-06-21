@@ -45,7 +45,10 @@
 I'm always open to learning, collaborating, or just chatting about tech!
 
 > 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/faseeh-zafar-418369323/))   
-> 💌 Email: faseehzafar.dev@gmail.com  
+> 💌 Email: faseehzafar.dev@gmail.com
+> ## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FaseehZafar&show_icons=true&locale=en&layout=compact)
+
 
 ---
 
