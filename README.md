@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Faseeh Zafar
 
 🎓 I'm a Data Science student at FAST National University, Islamabad.  
-💻 Currently in my 3rd semester, learning core programming concepts with a focus on **C++**.  
+💻 Currently in my 5th semester, learning core programming concepts with a focus on **C++**.  
 🚀 Passionate about solving problems, writing clean code, and exploring how technology can solve real-world challenges.  
 
 ---
